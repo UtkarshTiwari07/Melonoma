@@ -30,7 +30,6 @@ The dataset includes labeled images of benign and malignant moles used to train,
 - **Classes**: Benign and malignant melanoma.
 - **Features Analyzed**: Color (red or black), texture, and irregularity.
 
-*Note: Replace with specific dataset details if needed (e.g., source, size, preprocessing steps).*
 
 ## Model Architecture
 
